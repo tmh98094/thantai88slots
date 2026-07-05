@@ -2,7 +2,7 @@
 
 Standalone Vietnamese slots/iGaming website built with Next.js App Router.
 
-This repository is prepared as a frontend-only handoff for design review and later Vercel deployment. Backend/webhook/deployment-specific integrations can wait until client approval.
+This repository is prepared as a frontend-only handoff for design review and Cloudflare deployment. Backend integrations can wait until client approval.
 
 ## Run locally
 
@@ -15,12 +15,12 @@ npm run dev
 
 Open `http://localhost:3000`.
 
-## Vercel setup
+## Cloudflare setup
 
-- Framework preset: Next.js
 - Install command: `npm install`
-- Build command: `npm run build`
-- Output directory: leave default
+- Build/test command: `npm run cf:build`
+- Preview locally on the Cloudflare adapter: `npm run preview`
+- Deploy with Wrangler/OpenNext: `npm run deploy`
 
 Optional environment variables:
 
@@ -31,13 +31,14 @@ PARTNER_URL=https://www.thantai688.com/?f=55
 
 ## Pre-upload checks
 
-Run these before uploading/importing to Vercel:
+Run these before deploying to Cloudflare:
 
 ```bash
 npm test
 npm run lint
 npm run typecheck
 npm run build
+npm run cf:dry-run
 ```
 
 ## Images

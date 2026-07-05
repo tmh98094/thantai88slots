@@ -27,12 +27,12 @@ export function StickyCta() {
         <Link href="/choi-co-trach-nhiem">Giới hạn 18+</Link>
       </aside>
       <button
-        aria-label="Mở lại bảng truy cập Play Now"
+        aria-label="Mở lại bảng truy cập Chơi ngay"
         className="sticky-cta-tab"
         onClick={() => setCollapsed(false)}
         type="button"
       >
-        <span>Play Now</span>
+        <span>Chơi ngay</span>
         <small>18+</small>
       </button>
     </div>

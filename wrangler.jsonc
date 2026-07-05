@@ -8,6 +8,17 @@
     "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "thantai888.co/*",
+      "zone_name": "thantai888.co"
+    },
+    {
+      "pattern": "www.thantai888.co/*",
+      "zone_name": "thantai888.co"
+    }
+  ],
   "observability": {
     "enabled": true,
     "head_sampling_rate": 1

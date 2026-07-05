@@ -5,7 +5,7 @@ import { getPost, posts } from "@/lib/posts";
 
 type PageProps = { params: Promise<{ slug: string }> };
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }));

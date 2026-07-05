@@ -4,21 +4,23 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build --webpack",
+    "build": "npm run content:widgets && next build --webpack",
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
-    "cf:build": "opennextjs-cloudflare build",
+    "cf:build": "npm run content:widgets && opennextjs-cloudflare build",
     "preview": "npm run cf:build && opennextjs-cloudflare preview",
-    "deploy": "npm run cf:build && opennextjs-cloudflare deploy",
+    "deploy": "npm run content:daily-check && npm run cf:build && opennextjs-cloudflare deploy",
     "cf:dry-run": "npm run cf:build && wrangler deploy --dry-run",
     "cf-typegen": "wrangler types cloudflare-env.d.ts --env-interface CloudflareEnv --include-runtime false",
-    "ops:test": "node --test scripts/seo-ops-lib.node-test.mjs",
+    "ops:test": "node --test scripts/*.test.mjs",
     "seo:weekly": "node scripts/seo-weekly.mjs",
     "content:briefs": "node scripts/content-briefs.mjs",
     "content:drafts": "node scripts/content-drafts.mjs",
-    "links:audit": "node scripts/links-audit.mjs"
+    "links:audit": "node scripts/links-audit.mjs",
+    "content:daily-check": "node scripts/content-quality-check.mjs",
+    "content:widgets": "node scripts/build-slots-widgets.mjs"
   },
   "dependencies": {
     "gsap": "^3.13.0",

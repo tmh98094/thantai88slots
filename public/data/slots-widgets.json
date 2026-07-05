@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2026-07-05T22:39:40.118Z",
+  "sourceStatus": "local-content",
+  "sections": [
+    {
+      "id": "featured-articles",
+      "title": "Cẩm nang nổi bật",
+      "description": "Bài evergreen nên ưu tiên cho SEO và internal link.",
+      "items": [
+        {
+          "label": "Cẩm nang slot",
+          "value": "Cách chọn game slot online dễ hiểu cho người mới",
+          "href": "/tin-tuc/cach-chon-game-slot-online"
+        },
+        {
+          "label": "Mobile",
+          "value": "Chơi slot trên điện thoại: nhanh, đẹp và cần kiểm soát",
+          "href": "/tin-tuc/choi-slot-tren-dien-thoai"
+        },
+        {
+          "label": "Jackpot",
+          "value": "Jackpot và vòng quay thưởng: hiểu đúng trước khi bấm quay",
+          "href": "/tin-tuc/jackpot-va-vong-quay-thuong"
+        },
+        {
+          "label": "Ưu đãi",
+          "value": "Ưu đãi slot online: những điều cần đọc kỹ",
+          "href": "/tin-tuc/uu-dai-slot-online-can-luu-y"
+        }
+      ]
+    },
+    {
+      "id": "latest-news",
+      "title": "Tin tức slot",
+      "description": "Chỉ dùng khi có nguồn rõ ràng; mặc định ưu tiên bài hướng dẫn evergreen.",
+      "items": [
+        {
+          "label": "Trạng thái",
+          "value": "Chưa có tin news riêng",
+          "href": "/tin-tuc"
+        }
+      ]
+    },
+    {
+      "id": "responsible-play",
+      "title": "Checklist 18+",
+      "description": "Nhắc người đọc kiểm tra ngân sách, điều khoản và thời gian chơi.",
+      "items": [
+        {
+          "label": "Ngân sách",
+          "value": "Đặt giới hạn trước khi chơi",
+          "href": "/choi-co-trach-nhiem"
+        },
+        {
+          "label": "Điều khoản",
+          "value": "Đọc vòng cược và thời hạn",
+          "href": "/tin-tuc"
+        },
+        {
+          "label": "Kỳ vọng",
+          "value": "Không xem jackpot/RTP như cam kết thắng",
+          "href": "/18-plus"
+        }
+      ]
+    }
+  ]
+}

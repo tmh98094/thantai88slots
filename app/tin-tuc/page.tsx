@@ -21,7 +21,7 @@ export default function NewsPage() {
           <article className="post-card" data-gsap="rise" key={post.slug}>
             <Link href={`/tin-tuc/${post.slug}`}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img alt={post.title} src={post.image} />
+              <img alt={post.imageAlt} src={post.image} />
             </Link>
             <div>
               <span>{post.category}</span>

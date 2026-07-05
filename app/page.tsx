@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { PartnerLink } from "@/components/partner-link";
+import { SlotsWidgets } from "@/components/slots-widgets";
 import { posts } from "@/lib/posts";
 
 const freshPosts = posts.slice(0, 3);
@@ -91,7 +92,7 @@ export default function HomePage() {
             {freshPosts.slice(1).map((post) => (
               <article key={post.slug}>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img alt={post.title} src={post.image} />
+                <img alt={post.imageAlt} src={post.image} />
                 <div>
                   <span>{post.category}</span>
                   <h3>
@@ -103,6 +104,7 @@ export default function HomePage() {
             ))}
           </div>
         </div>
+        <SlotsWidgets />
       </section>
 
       <section className="section shell provider-section" id="slot-hot" data-gsap="rise">

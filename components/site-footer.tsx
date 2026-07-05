@@ -11,7 +11,9 @@ export function SiteFooter() {
         </div>
         <nav>
           <h2>Thông tin</h2>
-          <Link href="/tin-tuc">Tin tức slot</Link>
+          <Link href="/tin-tuc">Tất cả nội dung</Link>
+          <Link href="/tin-tuc/tin-moi">Tin mới slot</Link>
+          <Link href="/tin-tuc/bai-viet">Bài viết slot</Link>
           <Link href="/choi-co-trach-nhiem">Chơi có trách nhiệm</Link>
           <Link href="/18-plus">18+</Link>
           <Link href="/lien-he">Liên hệ</Link>

@@ -8,7 +8,8 @@ import { PartnerLink } from "@/components/partner-link";
 
 const nav = [
   ["Slot hot", "/#slot-hot"],
-  ["Tin tức", "/tin-tuc"],
+  ["Tin mới", "/tin-tuc/tin-moi"],
+  ["Bài viết", "/tin-tuc/bai-viet"],
   ["Ưu đãi", "/#uu-dai"],
   ["18+", "/18-plus"],
 ] as const;

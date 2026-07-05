@@ -34,7 +34,7 @@ export default async function SlotPostPage({ params }: PageProps) {
       <h1>{post.title}</h1>
       <p className="dek">{post.description}</p>
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img alt={post.title} className="article-image" src={post.image} />
+      <img alt={post.imageAlt} className="article-image" src={post.image} />
       <aside className="article-cta" data-gsap="rise">
         <strong>Muốn vào trang chơi?</strong>
         <span>Đọc xong phần hướng dẫn, hãy kiểm tra điều kiện 18+, đặt giới hạn cá nhân và chỉ tham gia trong phạm vi giải trí.</span>

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T22:47:40.324Z",
+  "generatedAt": "2026-07-07T03:08:12.512Z",
   "sourceStatus": "local-content",
   "sections": [
     {
@@ -7,6 +7,11 @@
       "title": "Cẩm nang nổi bật",
       "description": "Bài evergreen nên ưu tiên cho SEO và internal link.",
       "items": [
+        {
+          "label": "RTP & biến động",
+          "value": "RTP và biến động slot: đọc để chơi có kiểm soát",
+          "href": "/tin-tuc/rtp-va-bien-dong-slot"
+        },
         {
           "label": "Cẩm nang slot",
           "value": "Cách chọn game slot online dễ hiểu cho người mới",
@@ -21,11 +26,6 @@
           "label": "Jackpot",
           "value": "Jackpot và vòng quay thưởng: hiểu đúng trước khi bấm quay",
           "href": "/tin-tuc/jackpot-va-vong-quay-thuong"
-        },
-        {
-          "label": "Ưu đãi",
-          "value": "Ưu đãi slot online: những điều cần đọc kỹ",
-          "href": "/tin-tuc/uu-dai-slot-online-can-luu-y"
         }
       ]
     },

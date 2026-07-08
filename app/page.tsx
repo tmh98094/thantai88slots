@@ -21,7 +21,7 @@ const authorityTopics = [
   },
   {
     title: "Hiểu jackpot như điểm nhấn giải trí",
-    text: "Jackpot tạo cảm giác hấp dẫn, nhưng không phải cam kết lợi nhuận. Nội dung trên Thantai88Slots luôn nhắc người chơi 18+ đặt ngân sách trước khi tham gia.",
+    text: "Jackpot tạo cảm giác hấp dẫn, nhưng không nói rằng người chơi sẽ có lãi. Nội dung trên Thantai88Slots luôn nhắc người chơi 18+ đặt ngân sách trước khi tham gia.",
   },
   {
     title: "Ưu tiên trải nghiệm mobile rõ ràng",
@@ -73,7 +73,7 @@ export default function HomePage() {
       <section className="section shell fresh-section" id="tin-moi" data-gsap="rise">
         <div className="section-head section-head-left">
           <div>
-            <p className="section-kicker">Blog & bản tin nội bộ</p>
+            <p className="section-kicker">Blog & tin mới</p>
             <h2>Nhịp mới từ sảnh slot</h2>
           </div>
           <Link href="/tin-tuc">Xem tất cả bài viết</Link>
@@ -110,11 +110,16 @@ export default function HomePage() {
       <section className="section shell provider-section" id="slot-hot" data-gsap="rise">
         <div className="provider-intro">
           <p className="section-kicker">Từ nền tảng đối tác</p>
-          <h2>Nền tảng đối tác có nhiều sảnh — hãy dùng như bản đồ, không phải lời hứa thắng.</h2>
+          <h2>Nền tảng đối tác có nhiều sảnh. Hãy dùng như bản đồ, không phải lời hứa thắng.</h2>
           <p>
             Khi kiểm tra bundle từ thantai688.com, tôi thấy nhiều lobby slot/casino như JDB, CQ9, HABA, PRG
             Pragmatic, Red Tiger, KA, NetEnt, Play’n GO và các nhóm khác. Trang này dùng thông tin đó để định hướng
-            nội dung; mọi điều kiện trò chơi vẫn cần kiểm tra trực tiếp trên nền tảng trước khi tham gia.
+            nội dung; mọi điều kiện trò chơi vẫn cần kiểm tra trực tiếp trên nền tảng trước khi tham gia. Nếu bạn muốn
+            so sánh theo thương hiệu, bonus hoặc sảnh casino rộng hơn, hãy xem{" "}
+            <a href="https://thantai88.group/nha-cung-cap-game" rel="noopener noreferrer">
+              bản đồ sảnh game của Thantai88 Group
+            </a>
+            .
           </p>
         </div>
         <div className="provider-rail" aria-label="Một số sảnh/provider thấy trong nền tảng đối tác">
@@ -130,7 +135,7 @@ export default function HomePage() {
       <section className="section shell authority-section" id="kien-thuc-slot">
         <div className="authority-copy" data-gsap="rise">
           <p className="section-kicker">Kiến thức trước khi bấm quay</p>
-          <h2>Xây authority bằng nội dung hữu ích, không phải khẩu hiệu jackpot.</h2>
+          <h2>Tạo độ tin cậy bằng nội dung hữu ích, không phải khẩu hiệu jackpot.</h2>
           <p>
             Thantai88Slots nên giúp người đọc hiểu lựa chọn của mình: game nào dễ đọc giao diện, ưu đãi nào cần xem
             kỹ, và lúc nào nên dừng. Đây là phần tạo độ tin cậy lâu dài cho website.

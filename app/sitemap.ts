@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: absoluteUrl("/tin-tuc/bai-viet"), priority: 0.85, changeFrequency: "weekly" },
     { url: absoluteUrl("/choi-co-trach-nhiem"), priority: 0.5, changeFrequency: "monthly" },
     { url: absoluteUrl("/18-plus"), priority: 0.4, changeFrequency: "monthly" },
+    { url: absoluteUrl("/lien-he"), priority: 0.35, changeFrequency: "monthly" },
     ...posts.map((post) => ({ url: absoluteUrl(`/tin-tuc/${post.slug}`), lastModified: post.date, priority: 0.75, changeFrequency: "monthly" as const, images: [absoluteUrl(post.image)] })),
   ];
 }

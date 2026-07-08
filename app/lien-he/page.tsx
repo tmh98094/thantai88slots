@@ -4,6 +4,7 @@ export const metadata: Metadata = {
   title: "Liên hệ",
   description:
     "Liên hệ Thantai88Slots để gửi góp ý nội dung, yêu cầu hợp tác hoặc câu hỏi về kênh slot online 18+ thuộc hệ sinh thái Thantai88.",
+  alternates: { canonical: "/lien-he" },
 };
 
 export default function ContactPage() {

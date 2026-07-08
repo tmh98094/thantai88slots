@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T00:10:56.110Z",
+  "generatedAt": "2026-07-08T03:09:01.174Z",
   "sourceStatus": "local-content",
   "sections": [
     {
@@ -7,6 +7,11 @@
       "title": "Cẩm nang nổi bật",
       "description": "Bài hướng dẫn nền tảng nên được đặt nổi bật và nối sang các chủ đề gần nhất.",
       "items": [
+        {
+          "label": "Biểu tượng slot",
+          "value": "Wild và Scatter trong slot: hiểu biểu tượng trước khi quay",
+          "href": "/tin-tuc/wild-scatter-slot-la-gi"
+        },
         {
           "label": "RTP & biến động",
           "value": "RTP và biến động slot: đọc để chơi có kiểm soát",
@@ -21,11 +26,6 @@
           "label": "Mobile",
           "value": "Chơi slot trên điện thoại: nhanh, đẹp và cần kiểm soát",
           "href": "/tin-tuc/choi-slot-tren-dien-thoai"
-        },
-        {
-          "label": "Jackpot",
-          "value": "Jackpot và vòng quay thưởng: hiểu đúng trước khi bấm quay",
-          "href": "/tin-tuc/jackpot-va-vong-quay-thuong"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T03:09:01.174Z",
+  "generatedAt": "2026-07-09T11:25:47.100Z",
   "sourceStatus": "local-content",
   "sections": [
     {
@@ -7,6 +7,11 @@
       "title": "Cẩm nang nổi bật",
       "description": "Bài hướng dẫn nền tảng nên được đặt nổi bật và nối sang các chủ đề gần nhất.",
       "items": [
+        {
+          "label": "Chơi có trách nhiệm",
+          "value": "Giới hạn ngân sách khi chơi slot: đặt trước để dễ dừng",
+          "href": "/tin-tuc/gioi-han-ngan-sach-khi-choi-slot"
+        },
         {
           "label": "Biểu tượng slot",
           "value": "Wild và Scatter trong slot: hiểu biểu tượng trước khi quay",
@@ -21,11 +26,6 @@
           "label": "Cẩm nang slot",
           "value": "Cách chọn game slot online dễ hiểu cho người mới",
           "href": "/tin-tuc/cach-chon-game-slot-online"
-        },
-        {
-          "label": "Mobile",
-          "value": "Chơi slot trên điện thoại: nhanh, đẹp và cần kiểm soát",
-          "href": "/tin-tuc/choi-slot-tren-dien-thoai"
         }
       ]
     },

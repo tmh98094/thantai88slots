@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T11:25:47.100Z",
+  "generatedAt": "2026-07-11T03:06:07.990Z",
   "sourceStatus": "local-content",
   "sections": [
     {
@@ -7,6 +7,11 @@
       "title": "Cẩm nang nổi bật",
       "description": "Bài hướng dẫn nền tảng nên được đặt nổi bật và nối sang các chủ đề gần nhất.",
       "items": [
+        {
+          "label": "Chơi có trách nhiệm",
+          "value": "Tự động quay slot: dùng thế nào để không mất kiểm soát",
+          "href": "/tin-tuc/tu-dong-quay-slot-an-toan"
+        },
         {
           "label": "Chơi có trách nhiệm",
           "value": "Giới hạn ngân sách khi chơi slot: đặt trước để dễ dừng",
@@ -21,11 +26,6 @@
           "label": "RTP & biến động",
           "value": "RTP và biến động slot: đọc để chơi có kiểm soát",
           "href": "/tin-tuc/rtp-va-bien-dong-slot"
-        },
-        {
-          "label": "Cẩm nang slot",
-          "value": "Cách chọn game slot online dễ hiểu cho người mới",
-          "href": "/tin-tuc/cach-chon-game-slot-online"
         }
       ]
     },

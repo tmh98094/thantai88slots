@@ -15,4 +15,4 @@ Người mới không cần bắt đầu bằng quá nhiều thuật ngữ. Hãy
 
 Một game slot tốt để bắt đầu thường có biểu tượng dễ nhận biết, màn hình thưởng rõ ràng và thao tác mobile gọn. Khi mọi thứ dễ hiểu, bạn sẽ ít bị cuốn vào việc bấm liên tục chỉ vì tò mò.
 
-Slot là hình thức giải trí có rủi ro. Không có cách đọc nào bảo đảm thắng, vì vậy ngân sách và thời gian chơi cần được đặt trước khi tham gia.
+Slot là hình thức giải trí có rủi ro. Không có cách đọc nào biến kết quả thành điều chắc chắn, vì vậy ngân sách và thời gian chơi cần được đặt trước khi tham gia.

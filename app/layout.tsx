@@ -5,6 +5,7 @@ import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { StickyCta } from "@/components/sticky-cta";
 import { absoluteUrl, site } from "@/lib/site";
+import { serializeJsonLd, websiteJsonLd } from "@/lib/structured-data";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
   return (
     <html lang="vi">
       <body>
+        <script dangerouslySetInnerHTML={{ __html: serializeJsonLd(websiteJsonLd()) }} type="application/ld+json" />
         <GsapEntrance />
         <SiteHeader />
         <main>{children}</main>

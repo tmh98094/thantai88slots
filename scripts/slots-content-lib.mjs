@@ -106,7 +106,7 @@ export function buildSlotsWidgets(posts, date = new Date()) {
       {
         id: "featured-articles",
         title: "Cẩm nang nổi bật",
-        description: "Bài evergreen nên ưu tiên cho SEO và internal link.",
+        description: "Bài hướng dẫn nền tảng nên được đặt nổi bật và nối sang các chủ đề gần nhất.",
         items: articles.map((post) => ({ label: post.category, value: post.title, href: `/tin-tuc/${post.slug}` })),
       },
       {

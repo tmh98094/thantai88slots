@@ -1,6 +1,10 @@
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Chơi có trách nhiệm", description: "Nguyên tắc quản lý ngân sách, thời gian và hành vi khi tham gia slot online 18+." };
+export const metadata: Metadata = {
+  title: "Chơi có trách nhiệm",
+  description: "Nguyên tắc quản lý ngân sách, thời gian và hành vi khi tham gia slot online 18+.",
+  alternates: { canonical: "/choi-co-trach-nhiem" },
+};
 
 export default function ResponsiblePage() {
   return (

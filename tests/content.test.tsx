@@ -12,7 +12,7 @@ import { posts } from "../lib/posts";
 
 const bannedVisitorCopy =
   /\bSEO\b|Google|CTA|người dùng|dự án|button|site hỗ trợ|chỉ đọc|để hành động|mock|placeholder|owner|internal/i;
-const mojibakeMarkers = /Ã|Ä|Æ|á»|Â/;
+const mojibakeMarkers = /\u00c3|\u00c4|\u00c6|\u00e1\u00bb|\u00c2/;
 
 function visibleText(html: string) {
   return html

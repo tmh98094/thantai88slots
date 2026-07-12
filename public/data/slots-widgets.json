@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-07-07T03:08:12.512Z",
+  "generatedAt": "2026-07-12T13:00:37.224Z",
   "sourceStatus": "local-content",
   "sections": [
     {
       "id": "featured-articles",
       "title": "Cẩm nang nổi bật",
-      "description": "Bài evergreen nên ưu tiên cho SEO và internal link.",
+      "description": "Bài hướng dẫn nền tảng nên được đặt nổi bật và nối sang các chủ đề gần nhất.",
       "items": [
         {
-          "label": "RTP & biến động",
-          "value": "RTP và biến động slot: đọc để chơi có kiểm soát",
-          "href": "/tin-tuc/rtp-va-bien-dong-slot"
+          "label": "Hướng dẫn slot",
+          "value": "Đọc bảng trả thưởng slot: kiểm tra gì trước khi quay",
+          "href": "/tin-tuc/doc-bang-tra-thuong-slot"
         },
         {
-          "label": "Cẩm nang slot",
-          "value": "Cách chọn game slot online dễ hiểu cho người mới",
-          "href": "/tin-tuc/cach-chon-game-slot-online"
+          "label": "Chơi có trách nhiệm",
+          "value": "Tự động quay slot: dùng thế nào để không mất kiểm soát",
+          "href": "/tin-tuc/tu-dong-quay-slot-an-toan"
         },
         {
-          "label": "Mobile",
-          "value": "Chơi slot trên điện thoại: nhanh, đẹp và cần kiểm soát",
-          "href": "/tin-tuc/choi-slot-tren-dien-thoai"
+          "label": "Chơi có trách nhiệm",
+          "value": "Giới hạn ngân sách khi chơi slot: đặt trước để dễ dừng",
+          "href": "/tin-tuc/gioi-han-ngan-sach-khi-choi-slot"
         },
         {
-          "label": "Jackpot",
-          "value": "Jackpot và vòng quay thưởng: hiểu đúng trước khi bấm quay",
-          "href": "/tin-tuc/jackpot-va-vong-quay-thuong"
+          "label": "Biểu tượng slot",
+          "value": "Wild và Scatter trong slot: hiểu biểu tượng trước khi quay",
+          "href": "/tin-tuc/wild-scatter-slot-la-gi"
         }
       ]
     },

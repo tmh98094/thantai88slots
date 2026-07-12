@@ -19,7 +19,8 @@
     "content:briefs": "node scripts/content-briefs.mjs",
     "content:drafts": "node scripts/content-drafts.mjs",
     "links:audit": "node scripts/links-audit.mjs",
-    "content:daily-check": "node scripts/content-quality-check.mjs",
+    "content:daily-check": "node scripts/content-quality-check.mjs && node scripts/seo-ecosystem-check.mjs",
+    "seo:ecosystem": "node scripts/seo-ecosystem-check.mjs",
     "content:widgets": "node scripts/build-slots-widgets.mjs"
   },
   "dependencies": {

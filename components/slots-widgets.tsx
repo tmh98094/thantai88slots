@@ -10,11 +10,11 @@ export function SlotsWidgets() {
   });
 
   return (
-    <section className="slot-widget-panel" aria-label="Nội dung slot tự động">
+    <section className="slot-widget-panel" aria-label="Đọc tiếp về slot">
       <div className="slot-widget-head">
         <div>
-          <p className="section-kicker">Widget nội dung</p>
-          <h2>Bài nổi bật, tin mới và checklist 18+</h2>
+          <p className="section-kicker">Đọc tiếp</p>
+          <h2>Cẩm nang, tin cập nhật và checklist 18+</h2>
         </div>
         <span>Cập nhật: {updatedAt}</span>
       </div>

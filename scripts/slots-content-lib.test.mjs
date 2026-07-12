@@ -3,6 +3,9 @@ import test from "node:test";
 
 import { buildSlotsWidgets, parseMarkdownPost, validateSlotPostQuality } from "./slots-content-lib.mjs";
 
+const sampleSentence = "RTP là khái niệm dài hạn, còn mỗi phiên chơi vẫn có rủi ro và cần giới hạn ngân sách rõ ràng.";
+const sampleBody = `${Array.from({ length: 40 }, () => sampleSentence).join(" ")}\n\n${Array.from({ length: 40 }, () => sampleSentence).join(" ")}`;
+
 const sampleMarkdown = `---
 title: "RTP là gì trong slot online?"
 description: "Giải thích RTP trong slot online theo cách dễ hiểu, nhấn mạnh đây là số liệu lý thuyết dài hạn chứ không phải cam kết thắng."
@@ -16,9 +19,7 @@ tags:
   - "slot online"
 ---
 
-RTP là một khái niệm thường gặp khi đọc thông tin slot, nhưng người chơi không nên hiểu nó như lời hứa kết quả.
-
-Nội dung này dành cho người từ 18 tuổi trở lên và luôn cần đi kèm giới hạn ngân sách.
+${sampleBody}
 `;
 
 test("parseMarkdownPost reads frontmatter and paragraph body", () => {
@@ -44,6 +45,16 @@ test("validateSlotPostQuality rejects unsupported RTP and guaranteed-profit clai
   const errors = validateSlotPostQuality(post);
 
   assert.ok(errors.some((error) => error.includes("unsupported claim")));
+});
+
+test("validateSlotPostQuality rejects an evergreen article shorter than 700 words", () => {
+  const post = parseMarkdownPost(
+    "slot-ngan.md",
+    sampleMarkdown.replace(sampleBody, "Nội dung ngắn nhưng chưa đủ chiều sâu cho một bài evergreen."),
+  );
+  const errors = validateSlotPostQuality(post);
+
+  assert.ok(errors.some((error) => error.includes("at least 700 words")));
 });
 
 test("buildSlotsWidgets separates evergreen articles from news slots", () => {

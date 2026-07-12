@@ -7,10 +7,10 @@ import { MenuIcon } from "@/components/icons";
 import { PartnerLink } from "@/components/partner-link";
 
 const nav = [
-  ["Slot hot", "/#slot-hot"],
+  ["Chủ đề", "/#chu-de-slot"],
   ["Tin mới", "/tin-tuc/tin-moi"],
   ["Bài viết", "/tin-tuc/bai-viet"],
-  ["Ưu đãi", "/#uu-dai"],
+  ["Ưu đãi", "/chu-de/uu-dai-slot"],
   ["18+", "/18-plus"],
 ] as const;
 

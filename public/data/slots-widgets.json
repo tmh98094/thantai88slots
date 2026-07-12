@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-12T13:00:37.224Z",
+  "generatedAt": "2026-07-12T23:31:09.161Z",
   "sourceStatus": "local-content",
   "sections": [
     {
       "id": "featured-articles",
       "title": "Cẩm nang nổi bật",
-      "description": "Bài hướng dẫn nền tảng nên được đặt nổi bật và nối sang các chủ đề gần nhất.",
+      "description": "Các bài nền tảng về cơ chế game, điều kiện và giới hạn phiên chơi.",
       "items": [
         {
           "label": "Hướng dẫn slot",
@@ -32,7 +32,7 @@
     {
       "id": "latest-news",
       "title": "Tin tức slot",
-      "description": "Chỉ dùng khi có nguồn rõ ràng; mặc định ưu tiên bài hướng dẫn evergreen.",
+      "description": "Các cập nhật chỉ được đưa vào khi có nguồn rõ ràng và phù hợp để đọc lại.",
       "items": [
         {
           "label": "Trạng thái",

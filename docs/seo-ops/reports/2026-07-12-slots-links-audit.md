@@ -2,7 +2,7 @@
 
 - Site: Thantai88slots
 - Mục đích: Tìm cơ hội internal link, CTA disclosure và trùng intent với main hub.
-- Thời điểm tạo: 2026-07-07T23:12:21.028Z
+- Thời điểm tạo: 2026-07-12T23:29:50.146Z
 - Trạng thái xuất bản: Cần duyệt thủ công trước khi xuất bản
 
 ## Guardrails
@@ -26,8 +26,8 @@
 
 ## Tổng quan link
 
-- Tổng link tìm thấy: 17.
-- Internal link: 12.
+- Tổng link tìm thấy: 22.
+- Internal link: 17.
 - External link: 2.
 - Link affiliate/CTA phát hiện: 0.
 
@@ -35,16 +35,16 @@
 
 - README.md → ./docs/AI_IMAGE_PROMPTS.md
 - README.md → ./docs/IMAGE_PLACEMENT_AND_QA.md
+- app/chu-de/[slug]/page.tsx → /tin-tuc
+- app/chu-de/[slug]/page.tsx → /choi-co-trach-nhiem
 - app/page.tsx → https://thantai88.online
-- app/page.tsx → #tin-moi
+- app/page.tsx → #chu-de-slot
+- app/page.tsx → /tin-tuc
 - app/page.tsx → /tin-tuc
 - app/page.tsx → https://thantai88.com/nha-cung-cap-game
+- app/tin-tuc/[slug]/page.tsx → /choi-co-trach-nhiem
 - app/tin-tuc/tin-moi/page.tsx → /tin-tuc/bai-viet
 - components/brand-logo.tsx → /
-- components/site-footer.tsx → /tin-tuc
-- components/site-footer.tsx → /tin-tuc/tin-moi
-- components/site-footer.tsx → /tin-tuc/bai-viet
-- components/site-footer.tsx → /choi-co-trach-nhiem
 
 ## Việc nên làm
 

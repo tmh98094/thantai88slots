@@ -10,7 +10,7 @@ export function websiteJsonLd() {
         name: site.name,
         url: site.url,
         logo: absoluteUrl(site.logoPath),
-        sameAs: ["https://thantai88.online", "https://thantai88.group", "https://thantai88.site"],
+        sameAs: ["https://thantai88.online", "https://thantai88.com", "https://thantai88.site"],
       },
       {
         "@type": "WebSite",

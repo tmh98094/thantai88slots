@@ -2,78 +2,94 @@ import Link from "next/link";
 import { PartnerLink } from "@/components/partner-link";
 import { SlotsWidgets } from "@/components/slots-widgets";
 import { posts } from "@/lib/posts";
+import { topicHubs } from "@/lib/topic-hubs";
 
 const freshPosts = posts.slice(0, 3);
 
 const lobbyProviders = [
-  { name: "JDB", note: "sảnh slot, bắn cá và arcade cần kiểm tra theo từng trò" },
-  { name: "CQ9", note: "nhóm slot/mini game phổ biến trong nhiều lobby châu Á" },
-  { name: "HABA", note: "slot nhẹ, dễ đọc giao diện, phù hợp nội dung hướng dẫn người mới" },
-  { name: "Pragmatic", note: "hiển thị trong bundle dưới nhóm PRG; chỉ dùng như bối cảnh sảnh" },
-  { name: "Red Tiger", note: "nhóm game cần kiểm tra điều kiện thưởng trước khi chơi" },
-  { name: "KA", note: "thường gắn với slot, arcade và game nhịp nhanh" },
+  { name: "JDB", note: "Sảnh slot, bắn cá và arcade cần được đọc theo từng game." },
+  { name: "CQ9", note: "Một nhóm slot và mini game thường gặp trong nhiều lobby châu Á." },
+  { name: "HABA", note: "Giao diện game cần được tự kiểm tra trên thiết bị bạn đang dùng." },
+  { name: "Pragmatic", note: "Tên provider chỉ là điểm tham khảo, không thay cho bảng thông tin của game." },
+  { name: "Red Tiger", note: "Ưu đãi và điều kiện cần được kiểm tra riêng trước khi chọn game." },
+  { name: "KA", note: "Một nhóm game nhịp nhanh cần có giới hạn phiên chơi rõ ràng." },
 ] as const;
 
-const authorityTopics = [
+const guideSteps = [
   {
-    title: "Đọc điều kiện trước khi nhận thưởng",
-    text: "Ưu đãi slot chỉ hữu ích khi bạn hiểu vòng cược, thời hạn, trò chơi hợp lệ và giới hạn rút tiền. Nếu điều kiện chưa rõ, hãy dừng lại để kiểm tra thay vì bấm nhận ngay.",
+    title: "Đọc game trước khi quay",
+    text: "Mở bảng thông tin, kiểm tra biểu tượng, mức chơi và điều kiện tính năng trước khi bắt đầu.",
   },
   {
-    title: "Hiểu jackpot như điểm nhấn giải trí",
-    text: "Jackpot tạo cảm giác hấp dẫn, nhưng không nói rằng người chơi sẽ có lãi. Nội dung trên Thantai88Slots luôn nhắc người chơi 18+ đặt ngân sách trước khi tham gia.",
+    title: "Đặt giới hạn trước khi mở lobby",
+    text: "Xác định khoản giải trí, thời lượng phiên và một thời điểm dừng mà bạn sẽ tôn trọng.",
   },
   {
-    title: "Ưu tiên trải nghiệm mobile rõ ràng",
-    text: "Một sảnh slot tốt trên điện thoại cần nút thao tác dễ thấy, tốc độ tải ổn định và lối thoát rõ ràng để người chơi kiểm soát phiên của mình.",
+    title: "Giữ kỳ vọng thực tế",
+    text: "RTP, jackpot và hiệu ứng game không dự đoán kết quả của một phiên chơi cụ thể.",
   },
-] as const;
-
-const quickChecks = [
-  "Xác nhận bạn đủ 18 tuổi và chơi bằng ngân sách giải trí.",
-  "Kiểm tra điều khoản khuyến mãi, vòng cược và thời hạn.",
-  "Không xem RTP, jackpot hoặc bảng xếp hạng như lời hứa thắng.",
-  "Dừng phiên nếu bạn đang cố gỡ thua hoặc mất kiểm soát thời gian.",
 ] as const;
 
 export default function HomePage() {
   return (
     <>
-      <section className="hero">
-        <div className="shell hero-grid">
-          <div className="hero-copy" data-gsap="rise">
-            <p className="section-kicker">Thantai88Slots · hướng dẫn slot 18+</p>
-            <h1>Sảnh slot có ngữ cảnh, nội dung rõ ràng, vào chơi có kiểm soát.</h1>
-            <p>
-              Thantai88Slots thuộc hệ sinh thái{" "}
-              <a href="https://thantai88.online" rel="noopener noreferrer">
-                Thantai88
-              </a>
-              , tập trung vào blog slot, jackpot, ưu đãi, nhà cung cấp game và checklist an toàn trước khi bạn truy cập
-              nền tảng đối tác.
-            </p>
-            <div className="hero-actions">
-              <PartnerLink>Vào nền tảng 18+</PartnerLink>
-              <Link className="btn btn-soft" href="#tin-moi">
-                Xem tin mới
+      <section className="slots-lobby-hero">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img alt="Không gian lobby slot hiện đại với máy slot ánh vàng ruby và xanh lục" className="slots-lobby-backdrop" src="/images/hero-slots-lobby-v2.webp" />
+        <div className="shell slots-lobby-copy" data-gsap="rise">
+          <p className="section-kicker">Thantai88Slots · Cẩm nang slot 18+</p>
+          <h1>Đọc slot rõ hơn trước khi chạm quay.</h1>
+          <p>
+            Thantai88Slots là trung tâm hướng dẫn về RTP, tính năng game, ưu đãi, trải nghiệm mobile và giới hạn phiên chơi. Khi cần tài khoản, hỗ trợ hoặc thông tin nền tảng chính thức, hãy xem <a href="https://thantai88.online">Thantai88</a>.
+          </p>
+          <div className="hero-actions">
+            <Link className="btn btn-primary" href="#chu-de-slot">
+              Khám phá chủ đề slot
+            </Link>
+            <PartnerLink className="btn btn-soft">Mở nền tảng 18+</PartnerLink>
+          </div>
+          <div className="lobby-facts" aria-label="Phạm vi nội dung slot">
+            <div>
+              <strong>6</strong>
+              <span>Chủ đề bền vững</span>
+            </div>
+            <div>
+              <strong>9</strong>
+              <span>Bài nền tảng đã kiểm tra</span>
+            </div>
+            <div>
+              <strong>18+</strong>
+              <span>Luôn đặt giới hạn lên trước</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="slot-topic-nav" id="chu-de-slot">
+        <div className="shell">
+          <div className="section-head section-head-left">
+            <div>
+              <p className="section-kicker">Đi theo câu hỏi của bạn</p>
+              <h2>Chủ đề slot cần đọc theo cụm</h2>
+            </div>
+            <Link href="/tin-tuc">Tất cả bài viết</Link>
+          </div>
+          <nav className="slot-topic-grid" aria-label="Chủ đề kiến thức slot">
+            {topicHubs.map((hub) => (
+              <Link href={"/chu-de/" + hub.slug} key={hub.slug}>
+                <span>{hub.eyebrow}</span>
+                <strong>{hub.title}</strong>
+                <small>{hub.description}</small>
               </Link>
-            </div>
-          </div>
-          <div className="hero-card" data-gsap="rise">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img alt="Sảnh slot đỏ vàng với khu vực jackpot và điện thoại hiển thị game" src="/images/hero-slots.webp" />
-            <div className="hero-card-panel">
-              <span>Checklist trước khi chơi</span>
-              <strong>18+ · ngân sách · điều kiện</strong>
-            </div>
-          </div>
+            ))}
+          </nav>
         </div>
       </section>
 
       <section className="section shell fresh-section" id="tin-moi" data-gsap="rise">
         <div className="section-head section-head-left">
           <div>
-            <p className="section-kicker">Blog & tin mới</p>
+            <p className="section-kicker">Cẩm nang mới</p>
             <h2>Nhịp mới từ sảnh slot</h2>
           </div>
           <Link href="/tin-tuc">Xem tất cả bài viết</Link>
@@ -84,8 +100,8 @@ export default function HomePage() {
             <h3>{freshPosts[0]?.title}</h3>
             <p>{freshPosts[0]?.description}</p>
             <div className="card-actions">
-              <Link href={`/tin-tuc/${freshPosts[0]?.slug}`}>Đọc hướng dẫn</Link>
-              <PartnerLink className="text-cta">Vào sảnh 18+</PartnerLink>
+              <Link href={"/tin-tuc/" + freshPosts[0]?.slug}>Đọc hướng dẫn</Link>
+              <PartnerLink className="text-cta">Mở nền tảng 18+</PartnerLink>
             </div>
           </article>
           <div className="fresh-list">
@@ -96,7 +112,7 @@ export default function HomePage() {
                 <div>
                   <span>{post.category}</span>
                   <h3>
-                    <Link href={`/tin-tuc/${post.slug}`}>{post.title}</Link>
+                    <Link href={"/tin-tuc/" + post.slug}>{post.title}</Link>
                   </h3>
                   <p>{post.description}</p>
                 </div>
@@ -107,22 +123,15 @@ export default function HomePage() {
         <SlotsWidgets />
       </section>
 
-      <section className="section shell provider-section" id="slot-hot" data-gsap="rise">
+      <section className="section shell lobby-provider-section" id="slot-hot" data-gsap="rise">
         <div className="provider-intro">
-          <p className="section-kicker">Từ nền tảng đối tác</p>
+          <p className="section-kicker">Bản đồ lobby</p>
           <h2>Nền tảng đối tác có nhiều sảnh. Hãy dùng như bản đồ, không phải lời hứa thắng.</h2>
           <p>
-            Khi kiểm tra bundle từ thantai688.com, tôi thấy nhiều lobby slot/casino như JDB, CQ9, HABA, PRG
-            Pragmatic, Red Tiger, KA, NetEnt, Play’n GO và các nhóm khác. Trang này dùng thông tin đó để định hướng
-            nội dung; mọi điều kiện trò chơi vẫn cần kiểm tra trực tiếp trên nền tảng trước khi tham gia. Nếu bạn muốn
-            so sánh theo thương hiệu, bonus hoặc sảnh casino rộng hơn, hãy xem{" "}
-            <a href="https://thantai88.group/nha-cung-cap-game" rel="noopener noreferrer">
-              bản đồ sảnh game của Thantai88 Group
-            </a>
-            .
+            Các lobby có thể hiển thị các tên như JDB, CQ9, HABA, PRG Pragmatic, Red Tiger, KA, NetEnt hoặc Play&apos;n GO. Danh sách này chỉ giúp bạn định hướng nơi cần đọc thêm. Điều kiện game, ưu đãi và khả năng truy cập vẫn cần được kiểm tra trực tiếp trước khi tham gia. Khi cần so sánh rộng hơn theo thương hiệu hoặc danh mục, bạn có thể xem <a href="https://thantai88.com/nha-cung-cap-game">bản đồ sảnh game của Thantai88 Group</a>.
           </p>
         </div>
-        <div className="provider-rail" aria-label="Một số sảnh/provider thấy trong nền tảng đối tác">
+        <div className="provider-rail" aria-label="Một số provider có thể xuất hiện trong lobby đối tác">
           {lobbyProviders.map((provider) => (
             <article key={provider.name}>
               <strong>{provider.name}</strong>
@@ -132,28 +141,22 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="section shell authority-section" id="kien-thuc-slot">
-        <div className="authority-copy" data-gsap="rise">
-          <p className="section-kicker">Kiến thức trước khi bấm quay</p>
-          <h2>Tạo độ tin cậy bằng nội dung hữu ích, không phải khẩu hiệu jackpot.</h2>
+      <section className="section shell slot-guide-section" id="huong-dan-slot">
+        <div>
+          <p className="section-kicker">Một phiên chơi có kiểm soát</p>
+          <h2>Thông tin rõ ràng giúp bạn quyết định chậm hơn.</h2>
           <p>
-            Thantai88Slots nên giúp người đọc hiểu lựa chọn của mình: game nào dễ đọc giao diện, ưu đãi nào cần xem
-            kỹ, và lúc nào nên dừng. Đây là phần tạo độ tin cậy lâu dài cho website.
+            Một game có thể đẹp, nhanh và nhiều hiệu ứng, nhưng giới hạn tiền, thời gian và cảm xúc mới là phần bạn chủ động được. Những nguyên tắc dưới đây được lặp lại xuyên suốt các bài hướng dẫn trên Thantai88Slots.
           </p>
-          <ul className="quick-checks">
-            {quickChecks.map((item) => (
-              <li key={item}>{item}</li>
-            ))}
-          </ul>
         </div>
-        <div className="authority-grid" data-gsap="rise">
-          {authorityTopics.map((topic) => (
-            <article key={topic.title}>
-              <h3>{topic.title}</h3>
-              <p>{topic.text}</p>
-            </article>
+        <ol className="slot-guide-steps">
+          {guideSteps.map((step) => (
+            <li key={step.title}>
+              <strong>{step.title}</strong>
+              <span>{step.text}</span>
+            </li>
           ))}
-        </div>
+        </ol>
       </section>
 
       <section className="section shell final-panel" id="uu-dai" data-gsap="rise">
@@ -161,11 +164,10 @@ export default function HomePage() {
           <p className="section-kicker">Lối vào có trách nhiệm</p>
           <h2>Sẵn sàng xem sảnh game? Đi qua checklist trước.</h2>
           <p>
-            Link bên dưới dẫn sang nền tảng đối tác dành cho thành viên đủ tuổi. Hãy đọc điều kiện khuyến mãi, đặt giới
-            hạn ngân sách và chỉ xem slot như một hình thức giải trí có rủi ro.
+            Liên kết bên dưới dẫn sang nền tảng đối tác dành cho thành viên đủ tuổi. Hãy đọc điều kiện hiện hành, đặt giới hạn ngân sách và chỉ xem slot như một hình thức giải trí có rủi ro.
           </p>
         </div>
-        <PartnerLink>Chơi ngay 18+</PartnerLink>
+        <PartnerLink>Vào nền tảng 18+</PartnerLink>
       </section>
     </>
   );

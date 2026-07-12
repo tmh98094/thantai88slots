@@ -34,22 +34,25 @@ describe("visitor-facing content", () => {
     expect(html).toContain("https://thantai88.online");
     expect(html).toContain("Thantai88Slots");
     expect(html).toContain('href="/go/platform"');
-    expect(text).toContain("thuộc hệ sinh thái");
+    expect(html).toContain("slots-lobby-hero");
+    expect(html).toContain("/images/hero-slots-lobby-v2.webp");
+    expect(html).toContain('href="/chu-de/rtp-bien-dong"');
     expect(text).toContain("Nhịp mới từ sảnh slot");
     expect(text).toContain("Nền tảng đối tác có nhiều sảnh");
+    expect(text).not.toContain("Tạo độ tin cậy");
     expect(text).not.toMatch(bannedVisitorCopy);
     expect(text).not.toMatch(mojibakeMarkers);
   });
 
-  it("orders homepage sections as hero, fresh content, then authority content", () => {
+  it("orders homepage sections as lobby hero, topic hubs, then fresh content", () => {
     const html = renderToStaticMarkup(<HomePage />);
-    const heroIndex = html.indexOf('class="hero"');
+    const heroIndex = html.indexOf('class="slots-lobby-hero"');
     const freshIndex = html.indexOf('id="tin-moi"');
-    const authorityIndex = html.indexOf('id="kien-thuc-slot"');
+    const authorityIndex = html.indexOf('id="chu-de-slot"');
 
     expect(heroIndex).toBeGreaterThanOrEqual(0);
-    expect(freshIndex).toBeGreaterThan(heroIndex);
-    expect(authorityIndex).toBeGreaterThan(freshIndex);
+    expect(authorityIndex).toBeGreaterThan(heroIndex);
+    expect(freshIndex).toBeGreaterThan(authorityIndex);
   });
 
   it("uses verified partner-platform lobby context without unsupported payout claims", () => {

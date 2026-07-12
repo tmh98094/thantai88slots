@@ -1,0 +1,2160 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-13",
+  "site": "slots",
+  "name": "Thantai88 Slots",
+  "canonicalUrl": "https://thantai888.co",
+  "quota": 60,
+  "items": [
+    {
+      "id": "SLOTS-001",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "hub",
+      "title": "RTP slot là gì: hướng dẫn đọc và chuẩn bị",
+      "slug": "rtp-slot-la-gi-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "RTP slot là gì",
+      "secondaryKeywords": [
+        "hướng dẫn RTP slot là gì",
+        "RTP slot là gì cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 100,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-002",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "RTP slot là gì: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "rtp-slot-la-gi-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "RTP slot là gì",
+      "secondaryKeywords": [
+        "hướng dẫn RTP slot là gì",
+        "RTP slot là gì cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 99,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-003",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "biến động slot là gì: hướng dẫn đọc và chuẩn bị",
+      "slug": "bien-dong-slot-la-gi-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "biến động slot là gì",
+      "secondaryKeywords": [
+        "hướng dẫn biến động slot là gì",
+        "biến động slot là gì cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 98,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-004",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "biến động slot là gì: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "bien-dong-slot-la-gi-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "biến động slot là gì",
+      "secondaryKeywords": [
+        "hướng dẫn biến động slot là gì",
+        "biến động slot là gì cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 97,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-005",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "xác suất trong slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "xac-suat-trong-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "xác suất trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn xác suất trong slot",
+        "xác suất trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 96,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-006",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "xác suất trong slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "xac-suat-trong-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "xác suất trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn xác suất trong slot",
+        "xác suất trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 95,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-007",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "tần suất trả thưởng slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "tan-suat-tra-thuong-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "tần suất trả thưởng slot",
+      "secondaryKeywords": [
+        "hướng dẫn tần suất trả thưởng slot",
+        "tần suất trả thưởng slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 94,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-008",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "tần suất trả thưởng slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "tan-suat-tra-thuong-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "tần suất trả thưởng slot",
+      "secondaryKeywords": [
+        "hướng dẫn tần suất trả thưởng slot",
+        "tần suất trả thưởng slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 93,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-009",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "cách đọc thông tin RTP: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-doc-thong-tin-rtp-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách đọc thông tin RTP",
+      "secondaryKeywords": [
+        "hướng dẫn cách đọc thông tin RTP",
+        "cách đọc thông tin RTP cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 92,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-010",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "cách đọc thông tin RTP: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-doc-thong-tin-rtp-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách đọc thông tin RTP",
+      "secondaryKeywords": [
+        "hướng dẫn cách đọc thông tin RTP",
+        "cách đọc thông tin RTP cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 91,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-011",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "cách hiểu rủi ro khi chơi slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-hieu-rui-ro-khi-choi-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách hiểu rủi ro khi chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách hiểu rủi ro khi chơi slot",
+        "cách hiểu rủi ro khi chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 90,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-012",
+      "site": "slots",
+      "pillar": "RTP, biến động và xác suất",
+      "cluster": "Slot mechanics",
+      "pageType": "article",
+      "title": "cách hiểu rủi ro khi chơi slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-hieu-rui-ro-khi-choi-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách hiểu rủi ro khi chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách hiểu rủi ro khi chơi slot",
+        "cách hiểu rủi ro khi chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/rtp-va-bien-dong",
+      "prerequisites": [
+        "SLOTS-001"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/rtp-va-bien-dong",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 89,
+      "phase": 1,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-013",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "hub",
+      "title": "Wild trong slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "wild-trong-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "Wild trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn Wild trong slot",
+        "Wild trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 88,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-014",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "Wild trong slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "wild-trong-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "Wild trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn Wild trong slot",
+        "Wild trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 87,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-015",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "Scatter trong slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "scatter-trong-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "Scatter trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn Scatter trong slot",
+        "Scatter trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 86,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-016",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "Scatter trong slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "scatter-trong-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "Scatter trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn Scatter trong slot",
+        "Scatter trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 85,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-017",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "bảng trả thưởng slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "bang-tra-thuong-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "bảng trả thưởng slot",
+      "secondaryKeywords": [
+        "hướng dẫn bảng trả thưởng slot",
+        "bảng trả thưởng slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 84,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-018",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "bảng trả thưởng slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "bang-tra-thuong-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "bảng trả thưởng slot",
+      "secondaryKeywords": [
+        "hướng dẫn bảng trả thưởng slot",
+        "bảng trả thưởng slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 83,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-019",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "vòng quay miễn phí: hướng dẫn đọc và chuẩn bị",
+      "slug": "vong-quay-mien-phi-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "vòng quay miễn phí",
+      "secondaryKeywords": [
+        "hướng dẫn vòng quay miễn phí",
+        "vòng quay miễn phí cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 82,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-020",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "vòng quay miễn phí: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "vong-quay-mien-phi-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "vòng quay miễn phí",
+      "secondaryKeywords": [
+        "hướng dẫn vòng quay miễn phí",
+        "vòng quay miễn phí cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 81,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-021",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "bonus game trong slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "bonus-game-trong-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "bonus game trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn bonus game trong slot",
+        "bonus game trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 80,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-022",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "bonus game trong slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "bonus-game-trong-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "bonus game trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn bonus game trong slot",
+        "bonus game trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 79,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-023",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "multipliers trong slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "multipliers-trong-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "multipliers trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn multipliers trong slot",
+        "multipliers trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 78,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-024",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "multipliers trong slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "multipliers-trong-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "multipliers trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn multipliers trong slot",
+        "multipliers trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 77,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-025",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "paylines trong slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "paylines-trong-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "paylines trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn paylines trong slot",
+        "paylines trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 76,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-026",
+      "site": "slots",
+      "pillar": "Biểu tượng, tính năng và bảng trả thưởng",
+      "cluster": "Game features",
+      "pageType": "article",
+      "title": "paylines trong slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "paylines-trong-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "paylines trong slot",
+      "secondaryKeywords": [
+        "hướng dẫn paylines trong slot",
+        "paylines trong slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/tinh-nang-slot",
+      "prerequisites": [
+        "SLOTS-013"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/tinh-nang-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 75,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-027",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "hub",
+      "title": "nhà cung cấp game slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "nha-cung-cap-game-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "nhà cung cấp game slot",
+      "secondaryKeywords": [
+        "hướng dẫn nhà cung cấp game slot",
+        "nhà cung cấp game slot cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 74,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-028",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "nhà cung cấp game slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "nha-cung-cap-game-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "nhà cung cấp game slot",
+      "secondaryKeywords": [
+        "hướng dẫn nhà cung cấp game slot",
+        "nhà cung cấp game slot cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 73,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-029",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách chọn sảnh slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-chon-sanh-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách chọn sảnh slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách chọn sảnh slot",
+        "cách chọn sảnh slot cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 72,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-030",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách chọn sảnh slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-chon-sanh-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách chọn sảnh slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách chọn sảnh slot",
+        "cách chọn sảnh slot cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 71,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-031",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách đọc danh mục slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-doc-danh-muc-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách đọc danh mục slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách đọc danh mục slot",
+        "cách đọc danh mục slot cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 70,
+      "phase": 2,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-032",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách đọc danh mục slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-doc-danh-muc-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách đọc danh mục slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách đọc danh mục slot",
+        "cách đọc danh mục slot cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 69,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-033",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách kiểm tra điều kiện game hợp lệ: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-kiem-tra-dieu-kien-game-hop-le-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách kiểm tra điều kiện game hợp lệ",
+      "secondaryKeywords": [
+        "hướng dẫn cách kiểm tra điều kiện game hợp lệ",
+        "cách kiểm tra điều kiện game hợp lệ cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 68,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-034",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách kiểm tra điều kiện game hợp lệ: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-kiem-tra-dieu-kien-game-hop-le-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách kiểm tra điều kiện game hợp lệ",
+      "secondaryKeywords": [
+        "hướng dẫn cách kiểm tra điều kiện game hợp lệ",
+        "cách kiểm tra điều kiện game hợp lệ cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 67,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-035",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách tìm game slot phù hợp: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-tim-game-slot-phu-hop-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách tìm game slot phù hợp",
+      "secondaryKeywords": [
+        "hướng dẫn cách tìm game slot phù hợp",
+        "cách tìm game slot phù hợp cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 66,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-036",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách tìm game slot phù hợp: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-tim-game-slot-phu-hop-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách tìm game slot phù hợp",
+      "secondaryKeywords": [
+        "hướng dẫn cách tìm game slot phù hợp",
+        "cách tìm game slot phù hợp cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 65,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-037",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách so sánh trải nghiệm slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-so-sanh-trai-nghiem-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách so sánh trải nghiệm slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách so sánh trải nghiệm slot",
+        "cách so sánh trải nghiệm slot cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 64,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-038",
+      "site": "slots",
+      "pillar": "Provider và sảnh slot",
+      "cluster": "Provider discovery",
+      "pageType": "article",
+      "title": "cách so sánh trải nghiệm slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-so-sanh-trai-nghiem-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách so sánh trải nghiệm slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách so sánh trải nghiệm slot",
+        "cách so sánh trải nghiệm slot cho người mới"
+      ],
+      "searchIntent": "consideration",
+      "funnelStage": "consideration",
+      "parentHub": "/chu-de/nha-cung-cap-slot",
+      "prerequisites": [
+        "SLOTS-027"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/nha-cung-cap-slot",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 63,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-039",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "hub",
+      "title": "chơi slot trên điện thoại: hướng dẫn đọc và chuẩn bị",
+      "slug": "choi-slot-tren-dien-thoai-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "chơi slot trên điện thoại",
+      "secondaryKeywords": [
+        "hướng dẫn chơi slot trên điện thoại",
+        "chơi slot trên điện thoại cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 62,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-040",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "chơi slot trên điện thoại: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "choi-slot-tren-dien-thoai-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "chơi slot trên điện thoại",
+      "secondaryKeywords": [
+        "hướng dẫn chơi slot trên điện thoại",
+        "chơi slot trên điện thoại cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 61,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-041",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "cách kiểm tra giao diện slot mobile: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-kiem-tra-giao-dien-slot-mobile-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách kiểm tra giao diện slot mobile",
+      "secondaryKeywords": [
+        "hướng dẫn cách kiểm tra giao diện slot mobile",
+        "cách kiểm tra giao diện slot mobile cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 60,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-042",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "cách kiểm tra giao diện slot mobile: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-kiem-tra-giao-dien-slot-mobile-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách kiểm tra giao diện slot mobile",
+      "secondaryKeywords": [
+        "hướng dẫn cách kiểm tra giao diện slot mobile",
+        "cách kiểm tra giao diện slot mobile cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 59,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-043",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "ưu đãi slot online: hướng dẫn đọc và chuẩn bị",
+      "slug": "uu-dai-slot-online-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "ưu đãi slot online",
+      "secondaryKeywords": [
+        "hướng dẫn ưu đãi slot online",
+        "ưu đãi slot online cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 58,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-044",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "ưu đãi slot online: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "uu-dai-slot-online-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "ưu đãi slot online",
+      "secondaryKeywords": [
+        "hướng dẫn ưu đãi slot online",
+        "ưu đãi slot online cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 57,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-045",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "cách đọc điều kiện free spins: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-doc-dieu-kien-free-spins-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách đọc điều kiện free spins",
+      "secondaryKeywords": [
+        "hướng dẫn cách đọc điều kiện free spins",
+        "cách đọc điều kiện free spins cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 56,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-046",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "cách đọc điều kiện free spins: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-doc-dieu-kien-free-spins-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách đọc điều kiện free spins",
+      "secondaryKeywords": [
+        "hướng dẫn cách đọc điều kiện free spins",
+        "cách đọc điều kiện free spins cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 55,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-047",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "tự động quay slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "tu-dong-quay-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "tự động quay slot",
+      "secondaryKeywords": [
+        "hướng dẫn tự động quay slot",
+        "tự động quay slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 54,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-048",
+      "site": "slots",
+      "pillar": "Mobile, UX và ưu đãi",
+      "cluster": "Mobile slot experience",
+      "pageType": "article",
+      "title": "tự động quay slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "tu-dong-quay-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "tự động quay slot",
+      "secondaryKeywords": [
+        "hướng dẫn tự động quay slot",
+        "tự động quay slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "implementation",
+      "parentHub": "/chu-de/slot-mobile",
+      "prerequisites": [
+        "SLOTS-039"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/slot-mobile",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 53,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-049",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "hub",
+      "title": "giới hạn ngân sách khi chơi slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "gioi-han-ngan-sach-khi-choi-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "giới hạn ngân sách khi chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn giới hạn ngân sách khi chơi slot",
+        "giới hạn ngân sách khi chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 52,
+      "phase": 3,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-050",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "giới hạn ngân sách khi chơi slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "gioi-han-ngan-sach-khi-choi-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "giới hạn ngân sách khi chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn giới hạn ngân sách khi chơi slot",
+        "giới hạn ngân sách khi chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 51,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-051",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "giới hạn thời gian chơi slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "gioi-han-thoi-gian-choi-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "giới hạn thời gian chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn giới hạn thời gian chơi slot",
+        "giới hạn thời gian chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 50,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-052",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "giới hạn thời gian chơi slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "gioi-han-thoi-gian-choi-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "giới hạn thời gian chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn giới hạn thời gian chơi slot",
+        "giới hạn thời gian chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 49,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-053",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "không gỡ thua khi chơi slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "khong-go-thua-khi-choi-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "không gỡ thua khi chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn không gỡ thua khi chơi slot",
+        "không gỡ thua khi chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 48,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-054",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "không gỡ thua khi chơi slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "khong-go-thua-khi-choi-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "không gỡ thua khi chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn không gỡ thua khi chơi slot",
+        "không gỡ thua khi chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 47,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-055",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "dấu hiệu mất kiểm soát khi chơi slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "dau-hieu-mat-kiem-soat-khi-choi-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "dấu hiệu mất kiểm soát khi chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn dấu hiệu mất kiểm soát khi chơi slot",
+        "dấu hiệu mất kiểm soát khi chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 46,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-056",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "dấu hiệu mất kiểm soát khi chơi slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "dau-hieu-mat-kiem-soat-khi-choi-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "dấu hiệu mất kiểm soát khi chơi slot",
+      "secondaryKeywords": [
+        "hướng dẫn dấu hiệu mất kiểm soát khi chơi slot",
+        "dấu hiệu mất kiểm soát khi chơi slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 45,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-057",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "cách dừng một phiên slot: hướng dẫn đọc và chuẩn bị",
+      "slug": "cach-dung-mot-phien-slot-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "cách dừng một phiên slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách dừng một phiên slot",
+        "cách dừng một phiên slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 44,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-058",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "cách dừng một phiên slot: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "cach-dung-mot-phien-slot-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "cách dừng một phiên slot",
+      "secondaryKeywords": [
+        "hướng dẫn cách dừng một phiên slot",
+        "cách dừng một phiên slot cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 43,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    },
+    {
+      "id": "SLOTS-059",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "bảo vệ người chơi dưới 18 tuổi: hướng dẫn đọc và chuẩn bị",
+      "slug": "bao-ve-nguoi-choi-duoi-18-tuoi-huong-dan-doc-va-chuan-bi",
+      "primaryKeyword": "bảo vệ người chơi dưới 18 tuổi",
+      "secondaryKeywords": [
+        "hướng dẫn bảo vệ người chơi dưới 18 tuổi",
+        "bảo vệ người chơi dưới 18 tuổi cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 42,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: hướng dẫn đọc và chuẩn bị."
+    },
+    {
+      "id": "SLOTS-060",
+      "site": "slots",
+      "pillar": "Ngân sách và chơi có trách nhiệm",
+      "cluster": "Responsible slots",
+      "pageType": "article",
+      "title": "bảo vệ người chơi dưới 18 tuổi: lỗi hiểu nhầm và checklist kiểm tra",
+      "slug": "bao-ve-nguoi-choi-duoi-18-tuoi-loi-hieu-nham-va-checklist-kiem-tra",
+      "primaryKeyword": "bảo vệ người chơi dưới 18 tuổi",
+      "secondaryKeywords": [
+        "hướng dẫn bảo vệ người chơi dưới 18 tuổi",
+        "bảo vệ người chơi dưới 18 tuổi cho người mới"
+      ],
+      "searchIntent": "informational",
+      "funnelStage": "awareness",
+      "parentHub": "/chu-de/choi-slot-co-trach-nhiem",
+      "prerequisites": [
+        "SLOTS-049"
+      ],
+      "requiredInternalLinks": [
+        "/chu-de/choi-slot-co-trach-nhiem",
+        "/tin-tuc",
+        "/choi-co-trach-nhiem"
+      ],
+      "crossSiteLinkTarget": "https://thantai88.com/nha-cung-cap-game",
+      "evidenceRequirements": [
+        "Nguồn công khai hoặc nội dung giáo dục có thể kiểm chứng",
+        "Không có claim không được hỗ trợ"
+      ],
+      "imageBrief": "Ảnh casino-lobby cao cấp hoặc minh họa cơ chế slot; không giả mạo logo, giao diện hoặc RTP của trò chơi cụ thể.",
+      "priority": 41,
+      "phase": 4,
+      "status": "planned",
+      "sourceRequired": false,
+      "notes": "Góc triển khai: lỗi hiểu nhầm và checklist kiểm tra."
+    }
+  ]
+}

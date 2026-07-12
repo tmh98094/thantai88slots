@@ -59,6 +59,10 @@ export function parseMarkdownPost(filename, source) {
   };
 }
 
+export function wordCount(body = []) {
+  return body.join(" ").trim().split(/\s+/).filter(Boolean).length;
+}
+
 export function validateSlotPostQuality(post) {
   const errors = [];
   const searchable = [
@@ -88,6 +92,10 @@ export function validateSlotPostQuality(post) {
     errors.push("content must be Vietnamese");
   }
 
+  if (post.contentType !== "news" && wordCount(post.body) < 700) {
+    errors.push("evergreen article must contain at least 700 words");
+  }
+
   if (unsupportedClaimPatterns.some((pattern) => pattern.test(searchable))) {
     errors.push("content contains an unsupported claim");
   }
@@ -106,13 +114,13 @@ export function buildSlotsWidgets(posts, date = new Date()) {
       {
         id: "featured-articles",
         title: "Cẩm nang nổi bật",
-        description: "Bài hướng dẫn nền tảng nên được đặt nổi bật và nối sang các chủ đề gần nhất.",
+        description: "Các bài nền tảng về cơ chế game, điều kiện và giới hạn phiên chơi.",
         items: articles.map((post) => ({ label: post.category, value: post.title, href: `/tin-tuc/${post.slug}` })),
       },
       {
         id: "latest-news",
         title: "Tin tức slot",
-        description: "Chỉ dùng khi có nguồn rõ ràng; mặc định ưu tiên bài hướng dẫn evergreen.",
+        description: "Các cập nhật chỉ được đưa vào khi có nguồn rõ ràng và phù hợp để đọc lại.",
         items: news.length
           ? news.map((post) => ({ label: post.category, value: post.title, href: `/tin-tuc/${post.slug}` }))
           : [{ label: "Trạng thái", value: "Chưa có tin news riêng", href: "/tin-tuc" }],

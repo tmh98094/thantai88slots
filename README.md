@@ -26,7 +26,7 @@ Optional environment variables:
 
 ```bash
 NEXT_PUBLIC_SITE_URL=https://thantai888.co
-PARTNER_URL=https://www.thantai688.com/?f=55
+PARTNER_URL=https://www.thantai688.com?f=52
 ```
 
 ## Pre-upload checks

@@ -9,6 +9,7 @@ import * as SlotPostRoute from "../app/tin-tuc/[slug]/page";
 import { SiteFooter } from "../components/site-footer";
 import { StickyCta } from "../components/sticky-cta";
 import { posts } from "../lib/posts";
+import { site } from "../lib/site";
 
 const bannedVisitorCopy =
   /\bSEO\b|Google|CTA|người dùng|dự án|button|site hỗ trợ|chỉ đọc|để hành động|mock|placeholder|owner|internal/i;
@@ -21,6 +22,12 @@ function visibleText(html: string) {
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ");
 }
+
+describe("partner configuration", () => {
+  it("uses the Slots affiliate campaign", () => {
+    expect(site.partnerUrl).toBe("https://www.thantai688.com?f=52");
+  });
+});
 
 function descriptionText(metadata: { description?: unknown }) {
   return String(metadata.description ?? "");

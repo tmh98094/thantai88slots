@@ -1,7 +1,7 @@
 # Partner-platform lobby research
 
 Checked on: 2026-07-05  
-Source inspected: `https://www.thantai688.com/?f=55` HTML shell and its loaded `main.bundle.js`.
+Source inspected: `https://www.thantai688.com?f=52` HTML shell and its loaded `main.bundle.js`.
 
 ## What was verifiable
 

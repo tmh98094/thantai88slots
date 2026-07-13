@@ -37,16 +37,16 @@ export default function HomePage() {
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img alt="Không gian lobby slot hiện đại với máy slot ánh vàng ruby và xanh lục" className="slots-lobby-backdrop" src="/images/hero-slots-lobby-v2.webp" />
         <div className="shell slots-lobby-copy" data-gsap="rise">
-          <p className="section-kicker">Thantai88Slots · Cẩm nang slot 18+</p>
-          <h1>Đọc slot rõ hơn trước khi chạm quay.</h1>
+          <p className="section-kicker">Thantai88Slots · Sảnh slot dành cho người chơi Việt</p>
+          <h1>Slot online rực rỡ. Mỗi vòng quay một nhịp mới.</h1>
           <p>
-            Thantai88Slots là trung tâm hướng dẫn về RTP, tính năng game, ưu đãi, trải nghiệm mobile và giới hạn phiên chơi. Khi cần tài khoản, hỗ trợ hoặc thông tin nền tảng chính thức, hãy xem <a href="https://thantai88.online">Thantai88</a>.
+            Khám phá slot online, jackpot, Wild, Scatter, provider nổi bật và trải nghiệm mobile trong một điểm đến gọn gàng thuộc hệ sinh thái <a href="https://thantai88.online">Thantai88</a>.
           </p>
           <div className="hero-actions">
-            <Link className="btn btn-primary" href="#chu-de-slot">
-              Khám phá chủ đề slot
+            <PartnerLink className="btn btn-primary">Vào sảnh slot</PartnerLink>
+            <Link className="btn btn-soft" href="#chu-de-slot">
+              Xem game và chủ đề
             </Link>
-            <PartnerLink className="btn btn-soft">Mở nền tảng 18+</PartnerLink>
           </div>
           <div className="lobby-facts" aria-label="Phạm vi nội dung slot">
             <div>
@@ -58,8 +58,8 @@ export default function HomePage() {
               <span>Bài nền tảng đã kiểm tra</span>
             </div>
             <div>
-              <strong>18+</strong>
-              <span>Luôn đặt giới hạn lên trước</span>
+              <strong>RTP</strong>
+              <span>Giải thích dễ hiểu</span>
             </div>
           </div>
         </div>

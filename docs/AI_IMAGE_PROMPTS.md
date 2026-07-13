@@ -4,7 +4,7 @@ Use these prompts to regenerate the Slots image set. The target direction is clo
 
 Important production rule: generate the photo without any text or logo first. Do not ask the image AI to write `Thantai88Slots` inside the image. After generation, composite the exact transparent logo file from:
 
-`public/images/thantai88-logo-official.webp`
+`public/images/logo.png`
 
 Use the logo placement rules in `docs/IMAGE_PLACEMENT_AND_QA.md`.
 

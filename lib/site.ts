@@ -6,7 +6,7 @@ export const site = {
     "Thantai88Slots là cổng slot online tiếng Việt thuộc Thantai88, tập trung vào jackpot, ưu đãi rõ điều kiện và trải nghiệm mobile cho người chơi 18+.",
   partnerPath: "/go/platform",
   partnerUrl: "https://www.thantai688.com/?f=55",
-  logoPath: "/images/thantai88-logo-official.webp",
+  logoPath: "/images/logo.png",
 } as const;
 
 export function absoluteUrl(path = "/") {

@@ -1,12 +1,14 @@
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import { GsapEntrance } from "@/components/gsap-entrance";
+import { CampaignCarousel } from "@/components/campaign-carousel";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { StickyCta } from "@/components/sticky-cta";
 import { absoluteUrl, site } from "@/lib/site";
 import { serializeJsonLd, websiteJsonLd } from "@/lib/structured-data";
 import "./globals.css";
+import "./campaign.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
@@ -37,6 +39,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
       <body>
         <script dangerouslySetInnerHTML={{ __html: serializeJsonLd(websiteJsonLd()) }} type="application/ld+json" />
         <GsapEntrance />
+        <CampaignCarousel />
         <SiteHeader />
         <main>{children}</main>
         <StickyCta />

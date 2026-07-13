@@ -17,7 +17,7 @@ This file defines how generated images should be prepared before replacing files
 
 Do not bake random AI logo text into the generated photo. Composite the real transparent logo from:
 
-`public/images/logo.png`
+`public/images/thantai88-logo-official.webp`
 
 Recommended placement:
 
@@ -50,7 +50,7 @@ Ask the image AI to keep these zones visually simple:
 
 Open every final image at 100% and check:
 
-- Logo spelling is exact because it came from `public/images/logo.png`.
+- Logo spelling is exact because it came from `public/images/thantai88-logo-official.webp`.
 - No duplicate logo appears in the underlying image.
 - No unreadable fake casino text appears.
 - Model is adult-looking and non-explicit.

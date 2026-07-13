@@ -50,4 +50,4 @@ Use:
 - [docs/AI_IMAGE_PROMPTS.md](./docs/AI_IMAGE_PROMPTS.md)
 - [docs/IMAGE_PLACEMENT_AND_QA.md](./docs/IMAGE_PLACEMENT_AND_QA.md)
 
-Generate photos without baked-in logo text, then composite the exact `public/images/logo.png` afterward.
+Generate photos without baked-in logo text, then composite the exact `public/images/thantai88-logo-official.webp` afterward.
